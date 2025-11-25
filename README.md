@@ -1,2 +1,2 @@
-# Project Freedom (Clean)
-Fresh rebuild starting clean.
+# Project Freedom (Warhead) - minimal starter
+# Add docs and instructions here.
