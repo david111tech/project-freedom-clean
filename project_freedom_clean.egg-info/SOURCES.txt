@@ -1,0 +1,11 @@
+README.md
+pyproject.toml
+setup.cfg
+# warhead/__init__.py
+project_freedom_clean.egg-info/PKG-INFO
+project_freedom_clean.egg-info/SOURCES.txt
+project_freedom_clean.egg-info/dependency_links.txt
+project_freedom_clean.egg-info/top_level.txt
+tests/test_core.py
+warhead/__init__.py
+warhead/core.py
