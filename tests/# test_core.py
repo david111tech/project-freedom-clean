@@ -8,3 +8,9 @@ def test_greeting():
     message = greeting()
     print(message)
     assert "ONLINE" in message
+from warhead.core import greeting
+
+def test_greeting():
+    message = greeting()
+    print(message)
+    assert "ONLINE" in message
