@@ -1,0 +1,15 @@
+[project-freedom-clean/pyproject.toml]
+build-system-requires = ["setuptools>=42", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "project-freedom-clean"
+version = "0.1.0"
+description = "Warhead simulation project"
+authors = [{name="David Ruelas"}]
+dependencies = [
+    "rich>=14.2.0",
+    "websockets>=15.0.1"
+]
+[tool.setuptools.packages.find]
+where = ["src"]
